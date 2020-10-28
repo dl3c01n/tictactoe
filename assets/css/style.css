@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+.ceil {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Fredoka One', cursive;
+}
+
+#firstBox {
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;
+}
+
+#secondBox {
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;
+    border-left: solid 3px black;
+}
+
+#thirdBox {
+    border-bottom: solid 3px black;
+    border-left: solid 3px black;
+}
+
+#forthBox {
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;
+    border-top: solid 3px black;
+}
+
+#fifthBox {
+    border: solid 3px black;
+
+}
+
+#sixthBox {
+    border-left: solid 3px black;
+    border-bottom: solid 3px black;
+    border-top: solid 3px black;
+}
+
+#seventhBox {
+    border-right: solid 3px black;
+    border-top: solid 3px black;
+}
+
+#eighthBox {
+    border-right: solid 3px black;
+    border-left: solid 3px black;
+    border-top: solid 3px black;
+
+}
+
+#ninthBox {
+    border-left: solid 3px black;
+    border-top: solid 3px black;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
