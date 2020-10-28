@@ -1,0 +1,3 @@
+# tictactoe
+
+JavaScript based algorithm
